@@ -1,0 +1,8 @@
+ai-telegram-bot/
+├── README.md
+├── requirements.txt
+├── .env.example
+├── config.py
+├── bot.py
+├── utils.py
+└── main.py
